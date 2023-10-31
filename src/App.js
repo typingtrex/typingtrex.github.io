@@ -12,6 +12,10 @@ function App() {
           reasons for transitioning was to utilize the large community reach via
           websites and apps.
         </p>
+        <p>
+          I joined Grace Hopper at Full Stack Academy where I went from archaic
+          to tech literate and learned the joys of tech memes :)
+        </p>
       </header>
     </div>
   );
