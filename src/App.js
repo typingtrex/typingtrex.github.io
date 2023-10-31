@@ -50,7 +50,7 @@ function App() {
           deeper into new technologies.
         </p>
         <p>
-          If you would like to connect please reach out via
+          If you would like to connect please reach out via{' '}
           <a href="https://www.linkedin.com/in/ji-young-kim/">LinkedIn</a>
         </p>
       </header>
