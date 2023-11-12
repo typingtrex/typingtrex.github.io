@@ -4,7 +4,7 @@ import '../styles/about.css';
 function AboutMe() {
   return (
     <div className="aboutme">
-      <h2>Hi I'm Ji!</h2>
+      <h2>A LITTLE BIT ABOUT ME: </h2>
 
       <p>Insert programmer information: </p>
       {/* <p>

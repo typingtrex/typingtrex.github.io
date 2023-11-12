@@ -1,8 +1,9 @@
 function Welcome() {
   return (
-    <div>
+    <div className="welcomecontainer">
       <h1>Hello</h1>
-      <p>PORTFOLIO</p>
+      <h1>I'm Ji</h1>
+      <p>Nice to meet you!</p>
     </div>
   );
 }
