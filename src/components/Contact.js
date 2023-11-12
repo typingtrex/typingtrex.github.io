@@ -6,7 +6,6 @@ import {
   CalendarHeartFill,
 } from 'react-bootstrap-icons';
 import '../styles/contact.css';
-import { HeartFill } from 'react-bootstrap-icons';
 
 export function Contact() {
   return (

@@ -1,4 +1,12 @@
 .welcomecontainer {
+  text-align: center;
   background-color: black;
   color: rgb(223, 223, 217);
+  padding: 60px;
 }
+
+/* @media screen and (max-width: 600px) {
+  .aboutme {
+    padding-top: 150px;
+  }
+} */

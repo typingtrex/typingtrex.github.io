@@ -3,10 +3,11 @@
   box-shadow: 5.4px 10.7px 10.7px hsl(0deg 0% 0% / 0.33);
   background-color: black;
   color: white;
+  padding: 30px;
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
   .aboutme {
     padding-top: 150px;
   }
-}
+} */
