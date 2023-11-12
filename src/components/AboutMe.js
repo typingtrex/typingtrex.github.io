@@ -47,10 +47,10 @@ function AboutMe() {
         life. Currently I am focusing on my solo projects while devling deeper
         into new technologies.
       </p> */}
-      <p>
+      {/* <p>
         If you would like to connect please reach out via{' '}
         <a href="https://www.linkedin.com/in/ji-young-kim/">LinkedIn</a>
-      </p>
+      </p> */}
     </div>
   );
 }

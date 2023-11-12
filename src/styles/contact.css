@@ -1,0 +1,23 @@
+.contactContainer {
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-shadow: 5.4px 10.7px 10.7px hsl(0deg 0% 0% / 0.33);
+  background-color: black;
+  color: white;
+}
+
+.iconContainer {
+  background-color: black;
+}
+
+.icon {
+  color: #eccb8a;
+  padding: 0.5em;
+  font-size: 60px;
+}
+
+.icon:hover {
+  color: #f6a606;
+}
