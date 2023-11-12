@@ -1,0 +1,10 @@
+.aboutme {
+  text-align: center;
+  box-shadow: 5.4px 10.7px 10.7px hsl(0deg 0% 0% / 0.33);
+}
+
+@media screen and (max-width: 600px) {
+  .aboutme {
+    padding-top: 150px;
+  }
+}
